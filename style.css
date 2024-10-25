@@ -1,0 +1,61 @@
+#madLibOutput {
+    padding: 20px;
+    text-align: center;
+}
+
+
+.story {
+    padding: 10%;
+  
+}
+
+.madlib {
+    font-family: 'Creepster';
+    text-align: center;
+    color: rgb(226, 93, 17);
+    font-weight: bolder;
+    text-shadow: 2px 3px black;
+    font-size: 3ch;
+}
+
+  
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-image: url(BGII.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+
+.story {
+    padding: 7%;
+  
+}
+
+
+footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+#madLibOutput {
+    padding: 20px;
+    text-align: center;
+}
+
+.h {
+    text-align: center;
+    color: rgb(114, 18, 114);
+    font-weight: bolder;
+    text-shadow: 2px 5px black;
+    font-family: "Rubik Wet Paint", system-ui;
+    font-size: 70px;
+    padding-top: 10%;
+}
+
+#footer {
+    color: rgba(255, 255, 255, 0.24);
+    padding-top: 100px;
+}
